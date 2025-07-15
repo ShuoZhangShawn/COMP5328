@@ -1,0 +1,11 @@
+numpy 
+matplotlib
+scipy
+scikit-learn
+optuna
+plotly
+pandas
+pillow
+torch
+torchvision
+mlconfig

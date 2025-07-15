@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: utils
+Version: 0.1
+Summary: A package for Assignment 2 with CNN models and preprocessing utils.
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: matplotlib
